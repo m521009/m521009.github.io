@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.huniu.xyz</id>
     <title>葫牛胡说</title>
-    <updated>2020-07-30T12:47:07.472Z</updated>
+    <updated>2020-07-30T12:48:28.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.huniu.xyz"/>
     <link rel="self" href="https://www.huniu.xyz/atom.xml"/>
@@ -18,9 +18,9 @@
         <updated>2020-07-30T12:41:52.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/m521009/momotu@latest/2020/07/19/a167c76e041f99d570687e6278cdc21e.png" alt="QQ截图20200719092759.png" loading="lazy"></figure>
 <p>如上图一样的这是一个网站缩略图源码，上传到主机空间就能用。</p>
-<p>演示地址：<a href="https://cdn.jsdelivr.net/gh/m521009/momotu@latest/2020/07/19/a167c76e041f99d570687e6278cdc21e.png">www.ddya.top</a><br>
+<p>演示地址：<a href="https://www.ddya.top/">www.ddya.top</a><br>
 本站下载：<a href="https://cdn.qims.top/zfile/code/wzslt.zip">点击下载</a><br>
-网盘下载：<a href="https://qims.lanzous.com/imvIReq7uif">点击下载</a></p>
+网盘下载：[点击下载][4]</p>
 ]]></content>
     </entry>
     <entry>
