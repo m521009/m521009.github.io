@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://521009.xyz</id>
+    <id>https://www.huniu.xyz</id>
     <title>葫牛胡说</title>
-    <updated>2020-07-30T16:46:27.987Z</updated>
+    <updated>2020-07-30T16:52:29.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://521009.xyz"/>
-    <link rel="self" href="https://521009.xyz/atom.xml"/>
+    <link rel="alternate" href="https://www.huniu.xyz"/>
+    <link rel="self" href="https://www.huniu.xyz/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://521009.xyz/images/avatar.png</logo>
-    <icon>https://521009.xyz/favicon.ico</icon>
+    <logo>https://www.huniu.xyz/images/avatar.png</logo>
+    <icon>https://www.huniu.xyz/favicon.ico</icon>
     <rights>All rights reserved 2020, 葫牛胡说</rights>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
-        <id>https://521009.xyz/uaM1ikH7e/</id>
-        <link href="https://521009.xyz/uaM1ikH7e/">
+        <id>https://www.huniu.xyz/uaM1ikH7e/</id>
+        <link href="https://www.huniu.xyz/uaM1ikH7e/">
         </link>
         <updated>2020-07-30T16:36:02.000Z</updated>
-        <content type="html"><![CDATA[<p>图片测试<img src="https://521009.xyz/post-images/1596126979563.png" alt="" loading="lazy"></p>
+        <content type="html"><![CDATA[<p>图片测试<img src="https://www.huniu.xyz/post-images/1596126979563.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[网站缩略图源码]]></title>
-        <id>https://521009.xyz/guN-0cBar/</id>
-        <link href="https://521009.xyz/guN-0cBar/">
+        <id>https://www.huniu.xyz/guN-0cBar/</id>
+        <link href="https://www.huniu.xyz/guN-0cBar/">
         </link>
         <updated>2020-07-30T12:41:52.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/m521009/momotu@latest/2020/07/19/a167c76e041f99d570687e6278cdc21e.png" alt="QQ截图20200719092759.png" loading="lazy"></figure>
@@ -34,8 +34,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub做图床]]></title>
-        <id>https://521009.xyz/GitHub+jsDelivr/</id>
-        <link href="https://521009.xyz/GitHub+jsDelivr/">
+        <id>https://www.huniu.xyz/GitHub+jsDelivr/</id>
+        <link href="https://www.huniu.xyz/GitHub+jsDelivr/">
         </link>
         <updated>2020-07-30T12:28:57.000Z</updated>
         <content type="html"><![CDATA[<p>今天弄个hexo静态博客，部署在了GitHub上，十年，不知道我会不会一直更新。<br>
