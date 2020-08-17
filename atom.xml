@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://521009.xyz</id>
     <title>葫牛胡说</title>
-    <updated>2020-08-04T13:46:26.500Z</updated>
+    <updated>2020-08-17T13:11:45.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://521009.xyz"/>
     <link rel="self" href="https://521009.xyz/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://521009.xyz/images/avatar.png</logo>
     <icon>https://521009.xyz/favicon.ico</icon>
     <rights>All rights reserved 2020, 葫牛胡说</rights>
+    <entry>
+        <title type="html"><![CDATA[测试eee]]></title>
+        <id>https://521009.xyz/ce-shi-eee.html/</id>
+        <link href="https://521009.xyz/ce-shi-eee.html/">
+        </link>
+        <updated>2020-08-17T13:10:37.000Z</updated>
+        <content type="html"><![CDATA[<p>阿发的发大多数<br>
+<img src="https://521009.xyz/post-images/1597669853180.jpg" alt="" loading="lazy"></p>
+<p>发送到法发顺丰</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
         <id>https://521009.xyz/uaM1ikH7e/</id>
